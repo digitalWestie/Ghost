@@ -62,3 +62,5 @@ config.js
 
 # Coverage reports
 coverage.html
+
+content/data/ghost.db
